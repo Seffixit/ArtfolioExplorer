@@ -1,0 +1,19 @@
+<body style="background-color: #0a0a0a; color: #fff; font-family: Arial, sans-serif; text-align: center; padding: 50px;">
+  <h1>All Hands Vault</h1>
+  <h3>Operated by FigureMade</h3>
+  <p>Where legacy is stored, activated, and protected.</p>
+
+  <a href="join.html" style="
+    display: inline-block;
+    margin-top: 30px;
+    padding: 15px 30px;
+    background: #FFD700;
+    color: #000;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+  " onmouseover="this.style.backgroundColor='#FFF380';" onmouseout="this.style.backgroundColor='#FFD700';">
+    🔐 Join the Vault
+  </a>
+</body>
