@@ -1,0 +1,23 @@
+
+# All Hands Vault
+
+**Operated by FigureMade**
+
+A secure, dark-mode vault system for modern digital self-governance.
+
+## Features
+
+- 🔐 Encrypted vault design
+- 🌙 Dark mode UI
+- 🧠 Tiered pricing (Free, Pro, Sovereign)
+- ✅ Fully deployable to Vercel, Netlify, or GitHub Pages
+
+## Instructions
+
+1. Upload the files to your GitHub repository.
+2. Deploy using a free service like Vercel or Netlify.
+3. Customize for your users (add signup/login, file system backend, etc.)
+
+Built to empower creators, organizers, and digital citizens.
+
+- Created by Yusif McCall
