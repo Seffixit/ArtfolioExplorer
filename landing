@@ -2,3 +2,16 @@ Welcome to All Hands Vault
 Operated by FigureMade
 See Plans
 <a href="join.html"
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>All Hands Vault</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body style="background:#121212; color:white; font-family:sans-serif; text-align:center; padding:50px;">
+  <h1>Welcome to All Hands Vault</h1>
+  <p>Operated by <strong>FigureMade</strong></p>
+  <a href="join.html" style="color:#FFD700; display:block; margin-top: 30px;">🔐 Join the Vault</a>
+</body>
+</html>
